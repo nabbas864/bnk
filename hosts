@@ -1,9 +1,9 @@
 [win]
-
+172.31.17.202
 
 [win:vars]
 ansible_user=Administrator
-ansible_password=ZuNydOWhwi%=BXB!OsOWzJkkh;lesML@1
+ansible_password=ZuNydOWhwi%=BXB!OsOWzJkkh;lesML@
 ansible_connection=winrm
 ansible_winrm_server_cert_validation=ignore
 
