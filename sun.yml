@@ -1,0 +1,8 @@
+---
+- hosts : win
+  tasks:
+
+  - name: Create directory
+    win_file:
+      path: C:\JenkinsTest
+      state: directory
